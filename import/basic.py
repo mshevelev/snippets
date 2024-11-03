@@ -7,6 +7,7 @@ from glob import glob
 import numpy as np
 import pandas as pd
 import xarray as xr
+import matplotlib.pyplot as plt
 import scipy.stats
 from statsmodels import api as sma
 
